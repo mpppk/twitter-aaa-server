@@ -16,5 +16,5 @@ require (
 	github.com/spf13/pflag v1.0.6
 	github.com/spf13/viper v1.13.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
+	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 )
